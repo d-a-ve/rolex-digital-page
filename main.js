@@ -19,7 +19,7 @@ ScrollReveal().reveal(".header .row div, .news .row a, .work .row div", {origin:
 ScrollReveal().reveal(".services .row div, .reviews .row div, .choose-us .row div", {origin: "left", interval: 300});
 ScrollReveal().reveal(".plan-data-container", {origin: "right", delay: 300});
 ScrollReveal().reveal(".cta .btn, .values .section .value-container", {origin: "bottom", delay: 300})
-ScrollReveal().reveal(".newsletter,  footer, footer nav .row div", {origin: "bottom", interval: 300})
+ScrollReveal().reveal(".newsletter,  footer", {origin: "bottom", interval: 300})
 
 
 // to show and hide the navigation on mobile & tablet
